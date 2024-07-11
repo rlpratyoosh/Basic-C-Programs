@@ -1,0 +1,9 @@
+==============================
+Name: {name}
+Roll: {id}
+Subject 1 Marks: {Marks1}
+Subject 2 Marks: {Marks2}
+Subject 3 Marks: {Marks3}
+Total Marks: {Total}
+Average Marks: {Average}
+==============================
